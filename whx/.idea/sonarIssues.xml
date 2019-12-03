@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/config/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/components/Sidebar.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/components/headNav.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/pages/collectmanage/Collectmanage.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/pages/crewsmanage/CrewmanageDoneEdit.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/pages/crewsmanage/Crewsmanagedone.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/pages/crewsmanage/SendTaskBatchTodo.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/src/pages/daytaskmanage/DaytaskQuery.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/PMS/Gitcom.navinfo.imp.web.fieldwork/static/js/zh.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/config/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/components/Home.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/components/headNav.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/components/headNav1.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/pages/resolvequalitysend/ResolveQualitySendDone.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/pages/resolvetaskmanage/ResolveTaskManage.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/ResolveData/Gitcom.navinfo.imp.web.resolvedata/src/server/global/appconfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/config/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/dist/static/urlConfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/src/App.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/src/components/Home.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/src/pages/login/Login.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/src/pages/login/overview.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/allNew/com.navinfo.imp.web.login/static/urlConfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/indoor/Gitcom.navinfo.imp.web.indoorwork1.git/src/pages/beforetask/beforegrouping/taskGrouped.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/indoor/Gitcom.navinfo.imp.web.indoorwork1.git/src/pages/beforetask/crowdsourcedata/crowdSourceDta.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/indoor/Gitcom.navinfo.imp.web.indoorwork1.git/src/pages/beforetask/newbeforetask/newTask.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/config/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/components/Home.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pregrouptaskmanage/pendingproject/PendingProjectList.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pregrouptaskmanage/pregrouptask/PreGroupTaskList.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/inspectordistribute/taskAssign.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/operatordistribute/OperatorDistributeList.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/operatortask/OperatorTaskList.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/operatortask/taskStart.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/operatortaskmanage/OperatorTaskManageList.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/pages/pretaskmanage/operatortaskmanage/taskDetail.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/src/server/global/helptool.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/preSolve/com.navinfo.imp.web.pretask/static/config_info/appconfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/dist/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/components/Sidebar.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/components/headNav.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/pages/statsmanage/addStatsFactors.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/pages/statsmanage/qualityRateStats.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/pages/statsmanage/qualityRateStatsDetail.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/pages/statsmanage/statsFactorEdit.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/pages/statsmanage/statsFactorManage.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/server/global/appconfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/stats/com.navinfo.imp.web.stats/src/server/global/helptool.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/code/发版/19Q4+/测试版/19q4+测试包20191021/0.统一登录首页/static/urlConfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
